@@ -276,7 +276,6 @@
       title: 자동 클래스
     - local: in_translation
       title: (번역중) Backbones
-<<<<<<< HEAD
     - local: main_classes/callback
       title: 콜백
     - local: main_classes/configuration
@@ -293,24 +292,6 @@
       title: 텍스트 생성
     - local: main_classes/onnx
       title: ONNX
-=======
-    - local: callback
-      title: 콜백
-    - local: in_translation
-      title: (번역중) Configuration
-    - local: in_translation
-      title: (번역중) Data Collator
-    - local: in_translation
-      title: (번역중) Keras callbacks
-    - local: in_translation
-      title: (번역중) Logging
-    - local: in_translation
-      title: (번역중) Models
-    - local: in_translation
-      title: (번역중) Text Generation
-    - local: in_translation
-      title: (번역중) ONNX
->>>>>>> 3d23ea3d0 (docs: ko: callback.md)
     - local: in_translation
       title: (번역중) Optimization
     - local: in_translation
